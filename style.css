@@ -1,0 +1,143 @@
+/*
+.body{
+  background-image: url("https://images.pexels.com/photos/159872/book-open-pages-literature-159872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2 ");
+}
+*/
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: #a8dadc;
+  overflow: hidden;
+}
+
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    float: left;
+    color: #f1faee;
+    text-align: center;
+    padding: 16px 18px;
+    text-decoration: none;
+    font-size: 19px;
+    float: right;
+  }
+  
+  .topnav a:hover{
+
+background-color:#457b9d;
+    color: rgb(255, 255, 255);
+  }
+  .topnav a.active {
+float: left;
+background-color: #e63946;
+color: #ffffff;
+font-weight: bold;
+
+
+}
+.topnav a.active:hover {
+  float: left;
+  background-color: #e7e5e5;
+  color:#e63946;
+  font-weight: bold;
+  
+  
+  }
+
+
+  .htitle{
+
+color: #ffffff;
+background-color: #1D3557;
+text-align: center;
+  }
+
+
+
+
+  .hevent{
+
+    background-color:  #a8dadc;
+float:inline-start;
+
+}
+
+
+ .eventimg{
+
+width:200px;
+float: left;
+border-radius:  0%  10%  10% 0%;
+
+
+ }
+ .pevent{
+
+float:inline-start;
+
+ }
+
+
+.card{
+
+max-width: none;
+background-image: url(""); 
+text-align: center;
+  border-radius:5px;
+  margin: 50px;
+  float:left;
+display: block;
+box-shadow: 0 7px 8px 0 rgba(0, 0, 0, 0.2);
+
+  }
+  .card:hover{
+    opacity: 0.7;
+  }
+  
+
+  .hcard{
+
+background-color: rgb(255, 255, 255);
+width: 300px;
+  }
+
+  .icard{
+
+width: 100%;
+
+  }
+  
+
+  .vafbooks{
+background-color: rgb(197, 32, 32);
+
+
+  }
+  
+  .lasevent{
+
+
+    float: left;
+    text-align: center;
+  
+  }
+  
+  .button{
+font-size: large;
+margin: 35px;
+border-radius:10px;
+background-color: #e63946;
+
+  }
+  
+  .container{
+
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  ;
